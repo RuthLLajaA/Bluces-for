@@ -1,0 +1,24 @@
+.titulo{
+    font-family: 'Gabriela';
+    color: rgb(8, 15, 122);
+    text-align: center;
+}
+form{
+    background-color: rgb(216, 226, 223);
+    width: 500px;
+    height: 550px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color:rgba(255, 255, 255, 0.61);
+}
+.formulario{
+    font-family:'Gabriela';
+    color: cornflowerblue;
+    font-size: 20px;
+}
+body{
+    background-image: url(https://i.pinimg.com/564x/16/96/33/169633f2c022f6da1f775b5e3582cee0.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
